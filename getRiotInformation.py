@@ -5,7 +5,7 @@ import gc
 
 REGION = 'br1'
 BASE_URL = 'https://{}.api.riotgames.com'.format(REGION)
-API_KEY = 'RGAPI-706006aa-a279-4336-897b-c8c6b088091a'
+API_KEY = '####'
 
 class CHAMPION:
   # https://developer.riotgames.com/apis#champion-v3
